@@ -7,6 +7,7 @@ def menu():
     - Print a Fibonacci Sequence up to nth number.
     - Print the nth Fibonacci number.
     - Check if a number is a Fibonacci number.
+    - Quit the program
     """
 
     while True:
